@@ -1,6 +1,6 @@
 # EMSaov
 
-## EMSaov: An R Package for the Analysis of Variance with the Expected Mean Squares and its Shiny Application
+An R Package for the Analysis of Variance with the Expected Mean Squares and its Shiny Application
 
 ### Abstract 
 EMSaov is a new R package that we developed to provide users with an analysis of variance
